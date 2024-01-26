@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Hello this is the beginning.
